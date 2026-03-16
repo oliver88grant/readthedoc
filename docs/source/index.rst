@@ -24,6 +24,8 @@ Learn more about available models:
 
 - `Online UPS Systems <https://www.upspower-supply.com/product-category/online-ups/>`_
 - `Double Conversion UPS Solutions <https://www.upspower-supply.com/product-tag/double-conversion-ups/>`_
+- `API </api/>`_
+- `Usage </usage/>`_
 
 UPS Installation Guide
 ----------------------
