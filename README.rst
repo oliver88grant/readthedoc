@@ -8,9 +8,9 @@ Modern UPS systems, especially **online double conversion UPS**, ensure continuo
 What is an Online Double Conversion UPS?
 ----------------------------------------
 
-An **online double conversion UPS** continuously converts incoming AC power into DC and then back to AC. This process isolates connected equipment from disturbances such as voltage spikes, electrical noise, and frequency variations. :contentReference[oaicite:0]{index=0}
+An **online double conversion UPS** continuously converts incoming AC power into DC and then back to AC. This process isolates connected equipment from disturbances such as voltage spikes, electrical noise, and frequency variations.
 
-Because the inverter constantly supplies power to the load, there is **zero transfer time** when a power outage occurs, making this topology ideal for mission-critical applications. :contentReference[oaicite:1]{index=1}
+Because the inverter constantly supplies power to the load, there is **zero transfer time** when a power outage occurs, making this topology ideal for mission-critical applications.
 
 Key advantages include:
 
